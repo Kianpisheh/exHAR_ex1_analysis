@@ -1,0 +1,7031 @@
+{
+  "msg": "old_selected_instance",
+  "timestamp": 1665775216,
+  "old_idx": {
+    "FP": [
+      4
+    ]
+  }
+}
+##################################
+{
+  "msg": "selected_instance_change",
+  "timestamp": 1665775216,
+  "current_idx": {
+    "FN": [
+      4
+    ]
+  }
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775216,
+  "idx": 4
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775216,
+  "classification": {
+    "Cooking": {
+      "TP": [],
+      "FN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775216,
+  "predictions": [
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775216,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "old_selected_instance",
+  "timestamp": 1665775217,
+  "old_idx": {
+    "FN": [
+      4
+    ]
+  }
+}
+##################################
+{
+  "msg": "selected_instance_change",
+  "timestamp": 1665775217,
+  "current_idx": {
+    "FN": []
+  }
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775217,
+  "idx": 4
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775217,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775217,
+  "predictions": [
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775217,
+  "classification": {
+    "Cooking": {
+      "TP": [],
+      "FN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775222,
+  "idx": 0
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775222,
+  "predictions": [
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775222,
+  "classification": {
+    "Cooking": {
+      "TP": [],
+      "FN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775222,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775235,
+  "predictions": [
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775235,
+  "idx": 1
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775235,
+  "classification": {
+    "Cooking": {
+      "TP": [],
+      "FN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775235,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775236,
+  "idx": 2
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775236,
+  "predictions": [
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775236,
+  "classification": {
+    "Cooking": {
+      "TP": [],
+      "FN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775236,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775238,
+  "idx": 3
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775238,
+  "predictions": [
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775238,
+  "classification": {
+    "Cooking": {
+      "TP": [],
+      "FN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775238,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775239,
+  "predictions": [
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775239,
+  "idx": 4
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775239,
+  "classification": {
+    "Cooking": {
+      "TP": [],
+      "FN": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775239,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "event_stats_AND_what_if",
+  "timestamp": 1665775244,
+  "event_stats_hover_what_if": {
+    "activity": "Cooking",
+    "enclosedInstances": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8,
+      10,
+      11,
+      12
+    ],
+    "events": [
+      "Stove"
+    ],
+    "coverageANDIdx": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "NotCooking": [
+        6,
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    "timeDistanceRanges": {},
+    "numActivity": {
+      "Cooking": 5,
+      "NotCooking": 8
+    },
+    "durationRanges": {
+      "Cooking": [
+        1,
+        10.75
+      ],
+      "NotCooking": [
+        1.8199999999999932,
+        8.899999999999977
+      ]
+    },
+    "timeDistances": {},
+    "durations": {
+      "Cooking": [
+        {
+          "0": [
+            2.1799999999998363,
+            1.2200000000000273,
+            1
+          ]
+        },
+        {
+          "1": [
+            5.239999999999995,
+            1.460000000000008,
+            1.240000000000009,
+            1.2900000000000205
+          ]
+        },
+        {
+          "2": [
+            3.1600000000000037
+          ]
+        },
+        {
+          "3": [
+            8.75,
+            10.75
+          ]
+        },
+        {
+          "4": [
+            3.640000000000004
+          ]
+        }
+      ],
+      "NotCooking": [
+        {
+          "5": []
+        },
+        {
+          "6": [
+            4.9500000000000455
+          ]
+        },
+        {
+          "7": []
+        },
+        {
+          "8": [
+            1.8199999999999932
+          ]
+        },
+        {
+          "9": []
+        },
+        {
+          "10": [
+            3.410000000000025
+          ]
+        },
+        {
+          "11": [
+            4.939999999999998
+          ]
+        },
+        {
+          "12": [
+            5.990000000000009,
+            6.8799999999999955,
+            5.740000000000009,
+            8.899999999999977
+          ]
+        }
+      ]
+    }
+  }
+}
+##################################
+{
+  "msg": "event_stats_AND_what_if",
+  "timestamp": 1665775246,
+  "event_stats_hover_what_if": {
+    "activity": "NotCooking",
+    "enclosedInstances": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8,
+      10,
+      11,
+      12
+    ],
+    "events": [
+      "Stove"
+    ],
+    "coverageANDIdx": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "NotCooking": [
+        6,
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    "timeDistanceRanges": {},
+    "numActivity": {
+      "Cooking": 5,
+      "NotCooking": 8
+    },
+    "durationRanges": {
+      "Cooking": [
+        1,
+        10.75
+      ],
+      "NotCooking": [
+        1.8199999999999932,
+        8.899999999999977
+      ]
+    },
+    "timeDistances": {},
+    "durations": {
+      "Cooking": [
+        {
+          "0": [
+            2.1799999999998363,
+            1.2200000000000273,
+            1
+          ]
+        },
+        {
+          "1": [
+            5.239999999999995,
+            1.460000000000008,
+            1.240000000000009,
+            1.2900000000000205
+          ]
+        },
+        {
+          "2": [
+            3.1600000000000037
+          ]
+        },
+        {
+          "3": [
+            8.75,
+            10.75
+          ]
+        },
+        {
+          "4": [
+            3.640000000000004
+          ]
+        }
+      ],
+      "NotCooking": [
+        {
+          "5": []
+        },
+        {
+          "6": [
+            4.9500000000000455
+          ]
+        },
+        {
+          "7": []
+        },
+        {
+          "8": [
+            1.8199999999999932
+          ]
+        },
+        {
+          "9": []
+        },
+        {
+          "10": [
+            3.410000000000025
+          ]
+        },
+        {
+          "11": [
+            4.939999999999998
+          ]
+        },
+        {
+          "12": [
+            5.990000000000009,
+            6.8799999999999955,
+            5.740000000000009,
+            8.899999999999977
+          ]
+        }
+      ]
+    }
+  }
+}
+##################################
+{
+  "msg": "event_stats_AND_what_if",
+  "timestamp": 1665775248,
+  "event_stats_hover_what_if": {
+    "activity": "Cooking",
+    "enclosedInstances": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8,
+      10,
+      11,
+      12
+    ],
+    "events": [
+      "Stove"
+    ],
+    "coverageANDIdx": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "NotCooking": [
+        6,
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    "timeDistanceRanges": {},
+    "numActivity": {
+      "Cooking": 5,
+      "NotCooking": 8
+    },
+    "durationRanges": {
+      "Cooking": [
+        1,
+        10.75
+      ],
+      "NotCooking": [
+        1.8199999999999932,
+        8.899999999999977
+      ]
+    },
+    "timeDistances": {},
+    "durations": {
+      "Cooking": [
+        {
+          "0": [
+            2.1799999999998363,
+            1.2200000000000273,
+            1
+          ]
+        },
+        {
+          "1": [
+            5.239999999999995,
+            1.460000000000008,
+            1.240000000000009,
+            1.2900000000000205
+          ]
+        },
+        {
+          "2": [
+            3.1600000000000037
+          ]
+        },
+        {
+          "3": [
+            8.75,
+            10.75
+          ]
+        },
+        {
+          "4": [
+            3.640000000000004
+          ]
+        }
+      ],
+      "NotCooking": [
+        {
+          "5": []
+        },
+        {
+          "6": [
+            4.9500000000000455
+          ]
+        },
+        {
+          "7": []
+        },
+        {
+          "8": [
+            1.8199999999999932
+          ]
+        },
+        {
+          "9": []
+        },
+        {
+          "10": [
+            3.410000000000025
+          ]
+        },
+        {
+          "11": [
+            4.939999999999998
+          ]
+        },
+        {
+          "12": [
+            5.990000000000009,
+            6.8799999999999955,
+            5.740000000000009,
+            8.899999999999977
+          ]
+        }
+      ]
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775262,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "new_axiom",
+  "timestamp": 1665775262,
+  "activity": {
+    "name": "Cooking",
+    "events": [
+      "Stove"
+    ],
+    "excludedEvents": [],
+    "constraints": [],
+    "id": 0,
+    "eventORList": []
+  }
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775262,
+  "idx": 4
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775262,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775262,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775262,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775262,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775262,
+  "idx": 4
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775262,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775262,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "event_stats_AND_what_if",
+  "timestamp": 1665775263,
+  "event_stats_hover_what_if": {
+    "activity": "NotCooking",
+    "enclosedInstances": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      8,
+      10,
+      11,
+      12
+    ],
+    "events": [
+      "Stove"
+    ],
+    "coverageANDIdx": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "NotCooking": [
+        6,
+        8,
+        10,
+        11,
+        12
+      ]
+    },
+    "timeDistanceRanges": {},
+    "numActivity": {
+      "Cooking": 5,
+      "NotCooking": 8
+    },
+    "durationRanges": {
+      "Cooking": [
+        1,
+        10.75
+      ],
+      "NotCooking": [
+        1.8199999999999932,
+        8.899999999999977
+      ]
+    },
+    "timeDistances": {},
+    "durations": {
+      "Cooking": [
+        {
+          "0": [
+            2.1799999999998363,
+            1.2200000000000273,
+            1
+          ]
+        },
+        {
+          "1": [
+            5.239999999999995,
+            1.460000000000008,
+            1.240000000000009,
+            1.2900000000000205
+          ]
+        },
+        {
+          "2": [
+            3.1600000000000037
+          ]
+        },
+        {
+          "3": [
+            8.75,
+            10.75
+          ]
+        },
+        {
+          "4": [
+            3.640000000000004
+          ]
+        }
+      ],
+      "NotCooking": [
+        {
+          "5": []
+        },
+        {
+          "6": [
+            4.9500000000000455
+          ]
+        },
+        {
+          "7": []
+        },
+        {
+          "8": [
+            1.8199999999999932
+          ]
+        },
+        {
+          "9": []
+        },
+        {
+          "10": [
+            3.410000000000025
+          ]
+        },
+        {
+          "11": [
+            4.939999999999998
+          ]
+        },
+        {
+          "12": [
+            5.990000000000009,
+            6.8799999999999955,
+            5.740000000000009,
+            8.899999999999977
+          ]
+        }
+      ]
+    }
+  }
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775266,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775266,
+  "idx": 5
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775266,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775266,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775270,
+  "idx": 2
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775270,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775270,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775270,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775272,
+  "idx": 1
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775272,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775272,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775272,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775273,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775273,
+  "idx": 0
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775273,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775273,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775274,
+  "idx": 5
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775274,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775274,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775274,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775280,
+  "idx": 6
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775280,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775280,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775280,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775281,
+  "idx": 5
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775281,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775281,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775281,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775283,
+  "idx": 6
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775283,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775283,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775283,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775287,
+  "idx": 7
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775287,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775287,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775287,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775291,
+  "idx": 6
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775291,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775291,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775291,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "event_stats_AND_what_if",
+  "timestamp": 1665775336,
+  "event_stats_hover_what_if": {
+    "activity": "NotCooking",
+    "enclosedInstances": [
+      11
+    ],
+    "events": [
+      "Tap",
+      "Soap"
+    ],
+    "coverageANDIdx": {
+      "Cooking": [],
+      "NotCooking": [
+        6,
+        11
+      ]
+    },
+    "timeDistanceRanges": {
+      "Cooking": [],
+      "NotCooking": [
+        10.029999999999973,
+        114.73000000000002
+      ]
+    },
+    "numActivity": {
+      "Cooking": 5,
+      "NotCooking": 8
+    },
+    "durationRanges": {},
+    "timeDistances": {
+      "Cooking": [
+        {
+          "0": []
+        },
+        {
+          "1": []
+        },
+        {
+          "2": []
+        },
+        {
+          "3": []
+        },
+        {
+          "4": []
+        }
+      ],
+      "NotCooking": [
+        {
+          "5": []
+        },
+        {
+          "6": []
+        },
+        {
+          "7": []
+        },
+        {
+          "8": []
+        },
+        {
+          "9": []
+        },
+        {
+          "10": []
+        },
+        {
+          "11": [
+            87.93999999999994,
+            95.15999999999997,
+            100.21000000000004,
+            100.59000000000003,
+            114.73000000000002,
+            76.54999999999995,
+            83.76999999999998,
+            88.82000000000005,
+            89.20000000000005,
+            103.34000000000003,
+            69.46999999999997,
+            76.69,
+            81.74000000000007,
+            82.12000000000006,
+            96.26000000000005,
+            11.579999999999927,
+            18.799999999999955,
+            23.850000000000023,
+            24.230000000000018,
+            38.370000000000005,
+            10.029999999999973,
+            17.25,
+            22.300000000000068,
+            22.680000000000064,
+            36.82000000000005
+          ]
+        },
+        {
+          "12": []
+        }
+      ]
+    },
+    "durations": {}
+  }
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775343,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775343,
+  "idx": 7
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775343,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        7,
+        9
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "NotCooking": [
+          6,
+          8,
+          10,
+          11,
+          12
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775343,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775358,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "new_axiom",
+  "timestamp": 1665775358,
+  "activity": {
+    "name": "Cooking",
+    "events": [
+      "Stove"
+    ],
+    "excludedEvents": [
+      "Sponge"
+    ],
+    "constraints": [],
+    "id": 0,
+    "eventORList": []
+  }
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775358,
+  "idx": 7
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775358,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775358,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          11
+        ],
+        "NotCooking": [
+          11
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775358,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775358,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775358,
+  "idx": 7
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775358,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          11
+        ],
+        "NotCooking": [
+          11
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775358,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "old_selected_instance",
+  "timestamp": 1665775361,
+  "old_idx": {
+    "FN": []
+  }
+}
+##################################
+{
+  "msg": "selected_instance_change",
+  "timestamp": 1665775361,
+  "current_idx": {
+    "FP": [
+      11
+    ]
+  }
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775361,
+  "idx": 11
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775361,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775361,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": [
+          11
+        ],
+        "NotCooking": [
+          11
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775361,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "why_explanation",
+  "timestamp": 1665775363,
+  "explanations": {}
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775363,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "queried_axiom_why/why_not",
+  "timestamp": 1665775365,
+  "axiom": {
+    "events": [
+      "Sponge"
+    ],
+    "type": "interaction_negation",
+    "th1": -1,
+    "th2": -1,
+    "opSize": []
+  }
+}
+##################################
+{
+  "msg": "queried_axiom_why/why_not",
+  "timestamp": 1665775365,
+  "axiom": {
+    "events": [
+      "Stove"
+    ],
+    "type": "interaction",
+    "th1": -1,
+    "th2": -1,
+    "opSize": []
+  }
+}
+##################################
+{
+  "msg": "queried_axiom_why/why_not",
+  "timestamp": 1665775366,
+  "axiom": {
+    "events": [
+      "Sponge"
+    ],
+    "type": "interaction_negation",
+    "th1": -1,
+    "th2": -1,
+    "opSize": []
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775369,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "why_how_to_explanation",
+  "timestamp": 1665775369,
+  "explanations": [
+    {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "sauce_bottle"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "wooden_spoon"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  ]
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775370,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775370,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775371,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775371,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775372,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775372,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775375,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775375,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775375,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775375,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775375,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775375,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775376,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775376,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775377,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775377,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "new_axiom",
+  "timestamp": 1665775381,
+  "activity": {
+    "name": "Cooking",
+    "events": [
+      "Stove"
+    ],
+    "excludedEvents": [
+      "Sponge"
+    ],
+    "constraints": [],
+    "id": 0,
+    "eventORList": [
+      [
+        "wooden_spoon",
+        "spatula"
+      ]
+    ]
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775381,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": [
+        [
+          "wooden_spoon",
+          "spatula"
+        ]
+      ]
+    }
+  ]
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775381,
+  "idx": 11
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775381,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775381,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": [
+        [
+          "wooden_spoon",
+          "spatula"
+        ]
+      ]
+    }
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775381,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "instance_change",
+  "timestamp": 1665775381,
+  "idx": 11
+}
+##################################
+{
+  "msg": "prediction_result",
+  "timestamp": 1665775381,
+  "predictions": [
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Cooking"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ],
+    [
+      "Unknown"
+    ]
+  ]
+}
+##################################
+{
+  "msg": "classification_result",
+  "timestamp": 1665775381,
+  "classification": {
+    "Cooking": {
+      "TP": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "FN": [],
+      "TN": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "N": 5,
+      "FP": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665775381,
+  "activities": [
+    {
+      "name": "Cooking",
+      "events": [
+        "Stove"
+      ],
+      "excludedEvents": [
+        "Sponge"
+      ],
+      "constraints": [],
+      "id": 0,
+      "eventORList": [
+        [
+          "wooden_spoon",
+          "spatula"
+        ]
+      ]
+    }
+  ]
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775384,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775384,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775384,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775384,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775385,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775385,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775385,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775385,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775385,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775385,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775385,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775385,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775385,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775385,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775387,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775387,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775388,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775388,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775389,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775389,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775389,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775389,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "formula_save",
+  "timestamp": 1665775391,
+  "formula": {
+    "dataset": "Task4",
+    "activity": "Cooking",
+    "axioms": [
+      {
+        "events": [
+          "Stove"
+        ],
+        "type": "interaction",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      {
+        "events": [
+          "Sponge"
+        ],
+        "type": "interaction_negation",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      }
+    ]
+  }
+}
+##################################
+{
+  "msg": "all_formulas",
+  "timestamp": 1665775391,
+  "all_formulas": [
+    {
+      "dataset": "Task1",
+      "activity": "MakingCoffee",
+      "axioms": [
+        {
+          "events": [
+            "Carafe",
+            "CoffeeMaker",
+            "Coffee"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        }
+      ]
+    },
+    {
+      "dataset": "Task1",
+      "activity": "MakingCoffee",
+      "axioms": [
+        {
+          "events": [
+            "Carafe",
+            "CoffeeMaker"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "Sponge"
+          ],
+          "type": "interaction_negation",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        }
+      ]
+    },
+    {
+      "dataset": "Task1",
+      "activity": "MakingCoffee",
+      "axioms": [
+        {
+          "events": [
+            "Carafe",
+            "CoffeeMaker",
+            "Cup"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "coffee",
+            "teaspoon"
+          ],
+          "type": "interaction-or",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        }
+      ]
+    },
+    {
+      "dataset": "Task2",
+      "activity": "Sandwich_time",
+      "axioms": [
+        {
+          "events": [
+            "Bread",
+            "Salami",
+            "Fridge",
+            "Cheese"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "Dishwasher"
+          ],
+          "type": "interaction_negation",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        }
+      ]
+    },
+    {
+      "dataset": "Task2",
+      "activity": "Sandwich_time",
+      "axioms": [
+        {
+          "events": [
+            "Bread",
+            "Cheese",
+            "Fridge",
+            "Salami",
+            "Glass"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "Bread",
+            "Glass"
+          ],
+          "type": "time_distance",
+          "th1": 79,
+          "th2": 220,
+          "opSize": []
+        }
+      ]
+    },
+    {
+      "dataset": "Task2",
+      "activity": "Sandwich_time",
+      "axioms": [
+        {
+          "events": [
+            "Bread",
+            "Cheese",
+            "Fridge",
+            "Salami"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "Fridge",
+            "Bread"
+          ],
+          "type": "time_distance",
+          "th1": 87,
+          "th2": 227,
+          "opSize": []
+        }
+      ]
+    },
+    {
+      "dataset": "Task3",
+      "activity": "MakingCoffee",
+      "axioms": [
+        {
+          "events": [
+            "Cabinet",
+            "Coffee"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "mug",
+            "sugar"
+          ],
+          "type": "interaction-or",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        }
+      ]
+    },
+    {
+      "dataset": "Task4",
+      "activity": "Cooking",
+      "axioms": [
+        {
+          "events": [
+            "Stove"
+          ],
+          "type": "interaction",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "Sponge"
+          ],
+          "type": "interaction_negation",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        },
+        {
+          "events": [
+            "wooden_spoon",
+            "spatula"
+          ],
+          "type": "interaction-or",
+          "th1": -1,
+          "th2": -1,
+          "opSize": []
+        }
+      ]
+    }
+  ]
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775393,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775393,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "wooden_spoon"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775393,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775393,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "sauce_bottle"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775395,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "sauce_bottle"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775395,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775395,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775395,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775395,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775395,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "sauce_bottle"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775396,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "sauce_bottle"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775396,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775396,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775396,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775396,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775396,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775396,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775396,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775396,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775396,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775396,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775396,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775397,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775397,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775398,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775398,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775400,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775400,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775400,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "cabinet",
+          "bottle_opener"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775400,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775400,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775400,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775400,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775400,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775431,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775431,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775432,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775432,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775432,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775432,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775432,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775432,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775432,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775432,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775432,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775432,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775432,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "fridge"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775432,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if_explanation",
+  "timestamp": 1665775432,
+  "what_if": {
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    }
+  }
+}
+##################################
+{
+  "msg": "what_if",
+  "timestamp": 1665775432,
+  "interaction_or_hover_what_if": {
+    "newFPs": {
+      "Cooking": {
+        "all": []
+      }
+    },
+    "newTPs": {
+      "Cooking": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "suggestion": {
+      "type": "interaction_or",
+      "axiom": {
+        "events": [
+          "wooden_spoon",
+          "spatula"
+        ],
+        "type": "interaction-or",
+        "th1": -1,
+        "th2": -1,
+        "opSize": []
+      },
+      "axIdx": 0,
+      "policy": "FN_SAME",
+      "newFPs": {
+        "Cooking": {
+          "all": []
+        }
+      },
+      "newTPs": {
+        "Cooking": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    }
+  }
+}
+##################################

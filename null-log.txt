@@ -1,0 +1,54 @@
+{
+  "msg": "activities",
+  "timestamp": 1665772215,
+  "activities": [
+    {
+      "name": "Shaving",
+      "events": [
+        "Mug"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    },
+    {
+      "name": "BrushingTeeth",
+      "events": [
+        "Soap"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 1,
+      "eventORList": []
+    }
+  ]
+}
+##################################
+{
+  "msg": "activities",
+  "timestamp": 1665772235,
+  "activities": [
+    {
+      "name": "Shaving",
+      "events": [
+        "Mug"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 0,
+      "eventORList": []
+    },
+    {
+      "name": "BrushingTeeth",
+      "events": [
+        "Soap"
+      ],
+      "excludedEvents": [],
+      "constraints": [],
+      "id": 1,
+      "eventORList": []
+    }
+  ]
+}
+##################################
